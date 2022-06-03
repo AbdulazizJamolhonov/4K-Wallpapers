@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/ab_indicator_circle.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/card_background.xml" value="0.23384615384615384" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/frame_ic_about.xml" value="0.23384615384615384" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/frame_ic_arrow_left.xml" value="0.23384615384615384" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/frame_ic_download.xml" value="0.23384615384615384" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/frame_ic_filter.xml" value="0.23384615384615384" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/frame_ic_install_walpapers.xml" value="0.23384615384615384" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/frame_ic_liked.xml" value="0.23384615384615384" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/frame_ic_liked_click.xml" value="0.23384615384615384" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/frame_ic_random.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/frame_ic_share.xml" value="0.23384615384615384" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/frame_popular.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/home_lock.xml" value="0.23384615384615384" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/ic_about.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/ic_item.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/ic_like.xml" value="0.23384615384615384" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/ic_liked.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/ic_menu.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/ic_search.xml" value="0.23384615384615384" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/ic_wallpapers.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/indicator.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/splash_background.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/drawable/tab_indicator.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/ab_indicator_circle.xml" value="0.11096014492753623" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/activity_main.xml" value="0.10081053698074975" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/fragment_home.xml" value="0.10764944275582573" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/fragment_install_wallpaper.xml" value="0.1480978260869565" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/fragment_item.xml" value="0.10764944275582573" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/fragment_liked.xml" value="0.11730072463768115" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/fragment_menu.xml" value="0.25" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/fragment_photo_view.xml" value="0.25" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/fragment_popular.xml" value="0.10764944275582573" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/fragment_random.xml" value="0.10764944275582573" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/fragment_show_wallpapers.xml" value="0.13994565217391305" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/fragment_splash.xml" value="0.13994565217391305" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/fragment_view_pager.xml" value="0.10764944275582573" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/image_item.xml" value="0.13994565217391305" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/item_botto.xml" value="0.1721014492753623" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/item_liked_rv.xml" value="0.11730072463768115" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/item_pager_rv.xml" value="0.10764944275582573" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/layout/navigation_drawer.xml" value="0.22" />
+        <entry key="..\:/Android Studio/user/Homework20/app/src/main/res/menu/item_drawer_nav.xml" value="0.2037037037037037" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
